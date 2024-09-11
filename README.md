@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @Screwwaka84
-- 👀 I’m interested in ...
-: ...
-
-<!---
-Screwwaka84/Screwwaka84 is a ✨ special ✨ repository because its `README.md` (this file
